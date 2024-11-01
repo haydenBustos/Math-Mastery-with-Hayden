@@ -1,5 +1,4 @@
-# Personalized Tutoring in Algebra, Pre-Calculus, and Statistics
-## Math is Hard. Let's Make It Easier!
+# Math Mastery with Hayden 
 
 Welcome! I offer personalized tutoring sessions for Algebra, Pre-Calculus, and Statistics. Math can be challenging, but my goal is to make it accessible and engaging for everyone. Let’s work together to build confidence and simplify difficult topics.
 
