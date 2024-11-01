@@ -23,7 +23,7 @@ Feel free to reach out to book a session or ask any questions!
 
 - **Message**: (817) 524-5050
 - **Email**: hxb5658@mavs.uta.edu
-- **Message me on Facebook**: [[Hayden Bustos](https://www.facebook.com/hayden.bustos/)]
+- **Message me on Facebook**: [Hayden Bustos(https://www.facebook.com/hayden.bustos/)]
 
 ---
 
