@@ -1,7 +1,5 @@
 <div style="background-color: #002B5B; padding: 20px; min-height: 100vh; color: #FFFFFF; font-family: Arial, sans-serif;">
 
-# Welcome!
-
 Welcome! I offer personalized tutoring sessions for Algebra, Pre-Calculus, and Statistics. Math can be challenging, but my goal is to make it accessible and engaging for everyone. Let’s work together to build confidence and simplify difficult topics.
 
 ---
