@@ -1,19 +1,19 @@
-<div style="display: flex; width: 100vw; margin: 0; padding: 0;">
+<div style="display: flex; max-width: 1200px; margin: 0 auto;">
 
   <!-- Sidebar Menu -->
   <div style="background-color: #002B5B; padding: 20px; color: #FFFFFF; width: 200px; min-height: 100vh; font-family: Arial, sans-serif;">
     <h2>Menu</h2>
     <ul style="list-style-type: none; padding: 0;">
-      <li><a href="#home" style="color: #FFC107; text-decoration: none;">Home</a></li>
-      <li><a href="#faq" style="color: #FFC107; text-decoration: none;">Frequently Asked Questions</a></li>
-      <li><a href="https://forms.google.com" target="_blank" style="color: #FFC107; text-decoration: none;">Contact Form</a></li>
+      <li><a href="index.md" style="color: #FFC107; text-decoration: none;">Home</a></li>
+      <li><a href="faq.md" style="color: #FFC107; text-decoration: none;">Frequently Asked Questions</a></li>
+      <li><a href="contact-form.md" style="color: #FFC107; text-decoration: none;">Contact Form</a></li>
     </ul>
   </div>
 
   <!-- Main Content -->
   <div style="background-color: #002B5B; padding: 20px; color: #FFFFFF; font-family: Arial, sans-serif; flex-grow: 1;">
 
-    <h1 id="home">Welcome!</h1>
+    <h1>Welcome!</h1>
     <p>Welcome! I offer personalized tutoring sessions for Algebra, Pre-Calculus, and Statistics. Math can be challenging, but my goal is to make it accessible and engaging for everyone. Let’s work together to build confidence and simplify difficult topics.</p>
 
     --- 
@@ -40,19 +40,6 @@
       <li><strong>Email:</strong> hxb5658@mavs.uta.edu</li>
       <li><strong>Message me on Facebook:</strong> <a href="https://www.facebook.com/hayden.bustos/" style="color: #FFC107;">Hayden Bustos</a></li>
     </ul>
-
-    --- 
-
-    <h2 id="faq">Frequently Asked Questions</h2>
-
-    <h3>What are your qualifications?</h3>
-    <p>I have a background in data science from UTA and years of experience helping students with math.</p>
-
-    <h3>How do I book a session?</h3>
-    <p>Just text, Facebook message, or email me to schedule your first session. I’ll work with you to find a convenient time.</p>
-
-    <h3>What areas do you serve?</h3>
-    <p>I’m currently serving students in the Arlington and Mansfield areas, and online options may be available upon request.</p>
 
     --- 
 
