@@ -1,5 +1,8 @@
 <style>
-    h1 { display: none; }
+  /* Hide the automatically generated page title */
+  h1 {
+    display: none;
+  }
 </style>
 
 <div style="display: flex; max-width: 1200px; margin: 0 auto;">
