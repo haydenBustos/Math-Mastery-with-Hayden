@@ -1,3 +1,7 @@
+<style>
+    h1 { display: none; }
+</style>
+
 <div style="display: flex; max-width: 1200px; margin: 0 auto;">
 
   <!-- Sidebar Menu -->
