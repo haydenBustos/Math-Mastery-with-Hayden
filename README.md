@@ -1,3 +1,7 @@
+<div style="background-color: #002B5B; padding: 20px; min-height: 100vh; color: #FFFFFF; font-family: Arial, sans-serif;">
+
+# Welcome!
+
 Welcome! I offer personalized tutoring sessions for Algebra, Pre-Calculus, and Statistics. Math can be challenging, but my goal is to make it accessible and engaging for everyone. Let’s work together to build confidence and simplify difficult topics.
 
 ---
@@ -9,6 +13,7 @@ Hi, I’m Hayden, a dedicated tutor with a background in data science from the U
 ---
 
 ### Tutoring Options & Rates
+
 Rates starting at:
 - **$30** per 30-minute session
 - **$40** per 45-minute session
@@ -23,7 +28,7 @@ Feel free to reach out to book a session or ask any questions!
 
 - **Message**: (817) 524-5050
 - **Email**: hxb5658@mavs.uta.edu
-- **Message me on Facebook**: [Hayden Bustos(https://www.facebook.com/hayden.bustos/)]
+- **Message me on Facebook**: [Hayden Bustos](https://www.facebook.com/hayden.bustos/)
 
 ---
 
@@ -43,3 +48,5 @@ I’m currently serving students in the Arlington and Mansfield areas, and onlin
 ## Ready to Start?
 
 Math doesn’t have to be hard! Reach out to learn more or schedule your first session. I look forward to helping you achieve your math goals!
+
+</div>
