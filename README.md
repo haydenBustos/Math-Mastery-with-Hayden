@@ -41,11 +41,6 @@
       <li><strong>Message me on Facebook:</strong> <a href="https://www.facebook.com/hayden.bustos/" style="color: #FFC107;">Hayden Bustos</a></li>
     </ul>
 
-    --- 
-
-    <h2>Ready to Start?</h2>
-    <p>Math doesn’t have to be hard! Reach out to learn more or schedule your first session. I look forward to helping you achieve your math goals!</p>
-
   </div>
 
 </div>
