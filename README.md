@@ -5,8 +5,8 @@
     <h2>Menu</h2>
     <ul style="list-style-type: none; padding: 0;">
       <li><a href="index.md" style="color: #FFC107; text-decoration: none;">Home</a></li>
-      <li><a href="faq.md" style="color: #FFC107; text-decoration: none;">Frequently Asked Questions</a></li>
-      <li><a href="contact-form.md" style="color: #FFC107; text-decoration: none;">Contact Form</a></li>
+      <li><a href="faq.md" style="color: #FFC107; text-decoration: none;">FAQ</a></li>
+      <li><a href="contact-form.md" style="color: #FFC107; text-decoration: none;">Contact Me</a></li>
     </ul>
   </div>
 
