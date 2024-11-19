@@ -34,7 +34,7 @@
     <p>Rates starting at:</p>
     <ul>
       <li><strong>$30</strong> per 30-minute session</li>
-      <li><strong>$40</strong> per 45-minute session</li>
+      <li><strong>$45</strong> per 45-minute session</li>
     </ul>
     <p>Customized packages are available upon request to fit your learning needs.</p>
 
